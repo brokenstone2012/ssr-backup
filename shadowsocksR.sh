@@ -393,7 +393,7 @@ config_shadowsocks(){
     "protocol":"${shadowsockprotocol}",
     "protocol_param":"",
     "obfs":"${shadowsockobfs}",
-    "obfs_param":"",
+    "obfs_param":"vali-dns.cp31.ott.cibntv.net",
     "redirect":"",
     "dns_ipv6":false,
     "fast_open":false,
