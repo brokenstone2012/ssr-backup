@@ -14,3 +14,8 @@
 * ShadowsocksR-android-3.4.0.6.6-src.zip - Android客户端源码，3.4.0.6.6版本
 * ShadowsocksR-csharp-4.7.0-src.zip - C#客户端源码，4.7.0版本
 * ShadowsocksX-NG-src.zip - macOS客户端源码
+
+
+
+DaoCloud混合式容器主机 （Ubuntu 14.04 64位）ssr备份
+wget https://raw.githubusercontent.com/brokenstone2012/ssr-backup/master/ssr.tar
